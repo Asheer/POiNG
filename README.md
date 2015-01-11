@@ -8,4 +8,4 @@ respective player if grabbed.
 
 This was developed as a final project for my Game Design course.
 
-Copyright (c) 2014 Asheer Tanveer. All rights reserved.
+Copyright (c) 2015 Asheer Tanveer. All rights reserved.
