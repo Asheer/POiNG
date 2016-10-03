@@ -5,5 +5,3 @@ POiNG is a modified version of the traditional game "Pong" that I developed with
 
 The concept of the game is to block the ball with the paddle. Throughout the game, items are displayed on the UI which helps the 
 respective player if grabbed.
-
-Copyright (c) 2015. All rights reserved.
